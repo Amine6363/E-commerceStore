@@ -30,7 +30,6 @@ A full-stack e-commerce web application where users can browse clothing products
 ## 🔧 Installation & Setup
 
 1️⃣ **Clone the Repository**
-```bash
 git clone https://github.com/yourusername/ecommerce-clothing-store.git
 
 2️⃣ Navigate to the Project Folder
@@ -69,3 +68,5 @@ npm start
 💳 Payment Integration (Stripe, PayPal, Cash on Delivery)
 📦 Order Tracking System
 🌎 Multi-Language Support
+
+
