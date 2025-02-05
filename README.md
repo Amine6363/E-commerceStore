@@ -42,12 +42,28 @@ npm install
 4️⃣ Run the Project
 npm start
 
-📸 Screenshots
-Home
-![homepage](https://github.com/user-attachments/assets/e7a8d552-be36-4b84-94f3-94893712043f)
- Page	Product Page	Shopping Cart
-🌍 Live Demo
-🔗 View Demo
+## 📸 Screenshots
+
+### 🏠 Home & Navigation
+| Homepage | Homepage (Alt) | Collections |
+|----------|--------------|-------------|
+| ![Homepage](docs/homepage.png) | ![Homepage2](docs/homepage2.png) | ![Collections](docs/collection.png) |
+
+### 🛒 Shopping & Checkout
+| Product List | Product Page | Add to Cart | Checkout |
+|-------------|-------------|------------|---------|
+| ![Product List](docs/productlist.png) | ![Product Page](docs/productpage.png) | ![Add Item](docs/add%20item.png) | ![Checkout](docs/checkout.png) |
+
+### 🔍 Search & Orders
+| Search | Orders | Contact |
+|--------|--------|---------|
+| ![Search](docs/searsh.png) | ![Orders](docs/orders.png) | ![Contact](docs/contact.png) |
+
+### 🔑 Authentication & User
+| Login | About |
+|-------|-------|
+| ![Login](docs/login.png) | ![About](docs/about.png) |
+
 
 ⚡ Future Improvements
 💳 Payment Integration (Stripe, PayPal, Cash on Delivery)
