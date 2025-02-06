@@ -92,7 +92,7 @@ npm run dev
 
 ### 📱 Responsive Design  
 | Mobile View |
-|------------|
+|------------|--------------|
 | ![Mobile View](docs/resp1.png) | ![Tablet View](docs/resp2.png) |
 
 
