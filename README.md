@@ -32,6 +32,7 @@ A full-stack e-commerce web application where users can browse clothing products
 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/ecommerce-clothing-store.git
+```
 
 2️⃣ Navigate to the Project Folder
 ```bash
