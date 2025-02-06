@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/ecommerce-clothing-store.git
 
 2️⃣ Navigate to the Project Folder
 ```bash
-cd ecommerce-clothing-store
+cd E-commerceStore
 ```
 
 3️⃣ Install Dependencies
@@ -89,6 +89,11 @@ npm run dev
 | Add Product | Product List | Orders |
 |------------|--------------|--------|
 | ![Add Product](docs/add%20item.png) | ![Product List](docs/productlist.png) | ![Orders](docs/orders.png) |
+
+### 📱 Responsive Design  
+| Mobile View |
+|------------|
+| ![Mobile View](docs/mobile.png) |
 
 
 
