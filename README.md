@@ -91,7 +91,7 @@ npm run dev
 | ![Add Product](docs/add%20item.png) | ![Product List](docs/productlist.png) | ![Orders](docs/orders.png) |
 
 ### 📱 Responsive Design  
-| Mobile View |
+| Mobile View |--------------|
 |------------|--------------|
 | ![Mobile View](docs/resp1.png) | ![Tablet View](docs/resp2.png) |
 
