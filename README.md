@@ -17,12 +17,12 @@ A full-stack e-commerce web application where users can browse clothing products
 - 🎨 **TailwindCSS** (Responsive styling)
 
 ### **Backend**
-- 🌍 **Node.js & Express.js** (REST API)
-- 🗄️ **MongoDB & Mongoose** (Database)
+- 🌍 **Node.js** (REST API)
+- 🗄️ **MongoDB** (Database)
 - 🔐 **JWT Authentication** (Secure login)
 - ☁ **Cloudinary** (Image storage)
 
-### **Deployment**
+### **Deployment**(Coming soon) 
 - 🌐 **Vercel** (Frontend)
 - 🚀 **Render** (Backend)
 - 📂 **MongoDB Atlas** (Cloud Database)
@@ -30,16 +30,32 @@ A full-stack e-commerce web application where users can browse clothing products
 ## 🔧 Installation & Setup
 
 1️⃣ **Clone the Repository**
+```bash
 git clone https://github.com/yourusername/ecommerce-clothing-store.git
 
 2️⃣ Navigate to the Project Folder
+```bash
 cd ecommerce-clothing-store
+```
 
 3️⃣ Install Dependencies
+```bash
 npm install
+```
 
 4️⃣ Run the Project
-npm start
+```bash
+cd backend
+npm run server
+```
+```bash
+cd frontend
+npm run dev
+```
+```bash
+cd admin
+npm run dev
+```
 
 ## 📸 Screenshots
 
