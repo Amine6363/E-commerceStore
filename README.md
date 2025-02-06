@@ -43,25 +43,36 @@ npm start
 
 ## 📸 Screenshots
 
-### 🏠 Home & Navigation
-| Homepage | Homepage (Alt) | Collections |
-|----------|--------------|-------------|
-| ![Homepage](docs/homepage.png) | ![Homepage2](docs/homepage2.png) | ![Collections](docs/collection.png) |
+### 🏠 Homepage & Collections
+| Homepage | Collections |
+|----------|------------|
+| ![Homepage](docs/homepage.png) | ![Collections](docs/collection.png) |
 
-### 🛒 Shopping & Checkout
-| Product List | Product Page | Add to Cart | Checkout |
-|-------------|-------------|------------|---------|
-| ![Product List](docs/productlist.png) | ![Product Page](docs/productpage.png) | ![Add Item](docs/add%20item.png) | ![Checkout](docs/checkout.png) |
+### ℹ️ About & Contact
+| About | Contact |
+|-------|---------|
+| ![About](docs/about.png) | ![Contact](docs/contact.png) |
 
-### 🔍 Search & Orders
-| Search | Orders | Contact |
-|--------|--------|---------|
-| ![Search](docs/searsh.png) | ![Orders](docs/orders.png) | ![Contact](docs/contact.png) |
+### 🔍 Search
+| Search |
+|--------|
+| ![Search](docs/searsh.png) |
 
-### 🔑 Authentication & User
-| Login | About |
-|-------|-------|
-| ![Login](docs/login.png) | ![About](docs/about.png) |
+### 🔑 Authentication / Login
+| Login |
+|-------|
+| ![Login](docs/login.png) |
+
+### 🛒 Shopping Cart & Checkout
+| Add to Cart | Checkout |
+|------------|---------|
+| ![Add Item](docs/add%20item.png) | ![Checkout](docs/checkout.png) |
+
+### ⚙️ Admin Panel (Product Management & Orders)
+| Add Product | Product List | Orders |
+|------------|--------------|--------|
+| ![Add Product](docs/add%20item.png) | ![Product List](docs/productlist.png) | ![Orders](docs/orders.png) |
+
 
 
 ⚡ Future Improvements
